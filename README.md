@@ -9,6 +9,7 @@
 • Multiple choice
 • show correct Answer
 • showing Score
+• showing wrong answer
 
 ## How to Run?
 . Download or clone the repository
