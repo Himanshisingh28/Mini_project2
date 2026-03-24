@@ -22,4 +22,3 @@
 
 ## Author
 Himanshee
-Aspiring Software Developer
